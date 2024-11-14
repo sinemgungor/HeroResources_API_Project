@@ -1,0 +1,9 @@
+@HR_Master_API_Project.WebAPI_HostAddress = http://localhost:5062
+
+GET {{HR_Master_API_Project.WebAPI_HostAddress}}/company/
+Accept: application/json
+
+
+###
+
+
